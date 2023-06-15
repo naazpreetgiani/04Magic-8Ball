@@ -1,0 +1,20 @@
+html {
+  background: url("img/galaxyBackground.webp");
+  background: cover;
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 15px;
+  width: 500px;
+  margin: 25px auto;
+  padding: 25px 90px 25px;
+  text-align: left;
+}
+
+h3 {
+  text-align: center;
+}
+#ques-in {
+  width: 500px;
+}
